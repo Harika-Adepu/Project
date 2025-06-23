@@ -36,7 +36,7 @@
 }
 
 .services-card-container {
-    height: 55vh;
+    padding: 50px;
 }
 
 .services-card-heading {
